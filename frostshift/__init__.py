@@ -1,0 +1,1 @@
+"""FrostShift inventory laboratory."""
